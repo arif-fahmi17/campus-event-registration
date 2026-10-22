@@ -1,17 +1,40 @@
-# Campus Event Registration
+# [Project Title]
 
-Event registration for participants
+[One sentence: what problem does this project solve, and for whom?]
 
 ## Problem statement
-[3 to 5 sentences: who is affected, what is going wrong, and why it matters.]
+[3 to 5 sentences. Copy them from docs/problem-statement.md]
 
 ## Documents
-- [Problem statement](Week2_Lab_Starter/docs/problem-statement.md)
-- [Requirements](Week2_Lab_Starter/docs/requirements.md)
-- [User stories](Week2_Lab_Starter/docs/user-stories.md)
+- [Problem statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
+- [Sprint log](docs/sprint-log.md)
+
+## Project structure
+```
+.
+|-- README.md
+|-- LICENSE
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md      (code will go here)
+```
+
+## Roadmap
+- [x] Problem statement written
+- [ ] Requirements numbered and linked to user stories
+- [ ] User stories have acceptance criteria
+- [ ] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
 
 ## Status
-Planning (CSC649, Week 2)
+Sprint 1 completed (CSC649, Week 3)
 
 ## Author
 Arif Fahmi
